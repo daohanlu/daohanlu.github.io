@@ -229,6 +229,20 @@
       "search": [
         "yelp"
       ]
+    },
+    {
+      "uid": "6fc637cbae9562f518b97c0c89c69f29",
+      "css": "gscholar-line",
+      "code": 59411,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M500 1000A291.7 291.7 0 1 1 500 416.7 291.7 291.7 0 0 1 500 1000ZM500 0L0 395.8 201.6 560A333.3 333.3 0 0 1 500 375 333.3 333.3 0 0 1 798.4 560L1000 395.8Z",
+        "width": 1000
+      },
+      "search": [
+        "gscholar"
+      ]
     }
   ]
 }
