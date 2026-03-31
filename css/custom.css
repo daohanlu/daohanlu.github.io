@@ -1,1 +1,5 @@
 /* You can customize theme styles here */
+
+html {
+  scroll-padding-top: 80px;
+}
